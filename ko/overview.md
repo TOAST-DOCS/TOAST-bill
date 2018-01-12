@@ -1,1 +1,1 @@
-## TOAST bill > 개요
+## TOAST bill > TOAST bill (e-Tax) > 개요
