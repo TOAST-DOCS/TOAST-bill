@@ -8,5 +8,7 @@ e-business에 최적화된 사용자 환경과 합리적인 가격으로 최고 
 * 사용자의 기존 시스템 환경과 인터페이스가 가능한 개발자 API를 제공합니다.
 * 간편하고 직관적인 사용자 경험과 사용자 친화적인 색상으로 업무 생산성을 높여 줍니다.
 
+<br/>
+
 ### 서비스 구성도
 ![](http://static.toastoven.net/prod_toastbill/tax_step_img.png)
