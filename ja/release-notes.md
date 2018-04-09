@@ -1,4 +1,4 @@
-## TOAST bill > Release Notes
+## TOAST Bill > Release Notes
 
 ### 2017.03.29
 #### 기능 추가
@@ -8,5 +8,5 @@
 
 ### 2016.11.14
 #### 신규 상품 출시
-* bill(e-Tax) 상품 출시
+* Bill(e-Tax) 상품 출시
     * 전자 세금계산서 및 계산서를 손쉽게 발급 할 수 있는 서비스 입니다.
