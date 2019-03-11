@@ -11,4 +11,4 @@ e-business에 최적화된 사용자 환경과 합리적인 가격으로 최고 
 <br/>
 
 ### 서비스 구성도
-![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview01.png)
+![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview01_en.png)
