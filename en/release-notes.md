@@ -1,22 +1,22 @@
-## Bill > Bill (e-Tax) > Release Notes 
+## TOAST Bill > Release Notes
 
-### July 24, 2018
-#### Conversion to TOAST Cloud  
-* Converted to a project service of TOAST Cloud  
+### 2018.07.24
+#### 토스트클라우드 상품 전환
+* 토스트클라우드의 프로젝트 상품으로 전환
 
-#### Feature Updates
-* Issue consignment tax invoices 
-    * Added a feature of issuing consignment tax invoices through API
-* Added APIs for Resellers   
-    * Support APIs for re-selling clients (e.g. client registration, issuance, and query)
+#### 기능 추가
+* 위수탁 세금계산서 발행
+    * API를 통한 위수탁 세금계산서 발행 기능 추가
+* 리셀러 API 추가
+    * 리셀러 고객들을 위한 API 지원(고객등록, 발행, 조회 등)
 
-### March 29, 2017
-#### Feature Updates 
-* Added a Consolidated Menu   
-    * Purchase/Sales per Partner: Find purchase/sales for each business partner at a glance  
-    * Consolidated Tables: A consolidated table to report VATs can be made available 
+### 2017.03.29
+#### 기능 추가
+* 합계메뉴 추가
+    * 거래처별 매입매출 : 거래처별로 매입매출을 한눈에 볼 수 있는 메뉴
+    * 합계표 : 부가세 신고를 위한 합계표 추출 메뉴
 
-### Nov. 14, 2016
-#### Release of New Service 
-* Release of Bill (e-Tax)
-    * e-tax invoices as well as bills can be easily issued
+### 2016.11.14
+#### 신규 상품 출시
+* Bill(e-Tax) 상품 출시
+    * 전자 세금계산서 및 계산서를 손쉽게 발급 할 수 있는 서비스 입니다.
