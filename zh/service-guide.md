@@ -1,42 +1,40 @@
-## Bill > Bill(e-Tax) > 서비스 가이드
+## Bill > Bill (e-Tax) > Service Guide 
 
-### 가입 안내
+### Guide to Join 
 
-#### TOAST 인증
-TOAST Bill 서비스를 이용하기 위해서는 TOAST 사업자 회원으로 가입해야 합니다.
-회원 가입 단계에서 사업자 증명을 위한 서류 제출 및 결제 수단 등록을 진행합니다.
+#### Authenticate TOAST 
+To use TOAST Bill, join TOAST as a business member. 
+In the process of subscription, submit documents to verify business and register a method of payment. 
 
-#### 공인인증서 인증
-서비스 사용을 위해 전자세금계산서 발행용 공인인증서를 인증해야 합니다.
-(한국전자인증에서 공인인증서의 신규 발급이 가능합니다.)
+#### Authenticate Public Certificate 
+To use the service, a public certificate for e-tax invoice must be authenticated: get a public certificate from CROSSCERT: Korea Electronic Certification Authority. 
 
-#### 서비스 권한
-TOAST 사업자 회원 가입 이후 결제 수단 등록, 공인인증서 인증을 마치면 서비스 사용이 가능합니다.
-서비스 사용을 위한 사용자 권한은 아래와 같습니다.
-- Admin 권한: TOAST Bill 사용자 관리, 전자세금계산서 발행 가능
-- Member 권한: 전자세금계산서 발행 가능
+#### Service Authority 
+Now that you have joined TOAST as business member, and registered a payment method and authenticated public certificate, you're ready to use the service. Following are the authorities to use service:  
 
-### 주요 기능
+- As ADMIN: Manage TOAST Bill users, and issue e-tax invoices  
+- As MEMBER: Issue e-tax invoice  
 
-#### 템플릿 관리
-자주 사용하는 세금계산서 양식을 템플릿으로 등록하여 사용 가능합니다.
-반복적인 세금 계산서 발행 업무를 효과적으로 개선할 수 있습니다.
+### Main Features 
 
-#### 대시보드
-세금계산서 발행 현황에 대한 월별 통계 및 공지사항, 마일리지 내역 등을
-한 화면에서 쉽게 확인하고 바로가기를 실행할 수 있습니다.
+#### Template Management  
+Register a frequently-used tax invoice format as a template. 
+Efficiently improve repetitive task of tax invoice issuance.  
 
-#### 개발자 API
-Legacy 시스템 연동을 위한 개발자 API를 제공합니다.
-사용중인 ERP 시스템과 연동하여 대량의 세금계산서 발행을 자동화할 수 있습니다.
+#### Dashboards
+Easily find monthly statistics on the issuance of tax invoice, public notice, and mileage collection on a single screen, and execute shortcuts.  
+
+#### Developer API
+Provide a developer API which can be integrated with a legacy system. 
+By integrating with the ERP system in service, a large amount of tax invoices can be automatically issued.  
 
 <br/>
 
-### 서비스 메뉴
+### Service Menu 
 
-| 메뉴 | 설명 |
+| Menu | Description |
 | --- | --- |
-| DASH BOARD | 당월과 전월의 매입/매출 건수, 마감일자 등 사용자에게 필요한 정보를 요약하여 보여주는 화면입니다. |
-| 전자세금계산서 | 전자세금계산서를 작성, 편집, 발행하고 발행 된 전자세금계산서의 이력관리를 수행할 수 잇는 화면입니다. |
-| 환경설정 | 전자세금계산서 발행 시 사용할 품목, 거래처 정보 등을 등록하고 자주사용하는 세금계산서 양식을 템플릿으로 관리할 수 있는 화면입니다. |
-| 사용자관리 | Bill(e-Tax) 전자세금계산서를 사용할 사용자를 추가하고 권한을 관리할 수 있는 화면입니다. |
+| Dashboard | Show summary information required for a user, including the number of purchases, sales, and closed dates. |
+| e-tax Invoice | Create, edit, and issue e-tax invoices, while managing their history on the page. |
+| Settings | Register items for the issuance of e-tax invoice, as well as business partner information; manage frequently-used tax invoice formats as templates. |
+| User Management | Add users of Bill (e-Tax), and manage their authorities. |
