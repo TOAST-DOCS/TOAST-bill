@@ -1,4 +1,4 @@
-## Bill > Bill(e-Tax) > Overview 
+## Bill > Bill(e-Tax) > Overview
 
 Bill (e-Tax) refers to an electronic tax invoice service. 
 Under optimized user environment for e-business, you can enjoy the highest-level of tax service at reasonable prices. 
