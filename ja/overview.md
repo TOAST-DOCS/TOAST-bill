@@ -10,5 +10,5 @@ e-ビジネスに最適化されたユーザー環境と合理的な価格で、
 
 <br/>
 
-### サービス構成も
+### サービス構成図
 ![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview01_en.png)
