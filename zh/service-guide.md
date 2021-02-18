@@ -2,17 +2,17 @@
 
 ### Guide to Join 
 
-#### Authenticate TOAST 
-To use TOAST Bill, join TOAST as a business member. 
+#### Authenticate NHN Cloud 
+To use NHN Cloud Bill, join NHN Cloud as a business member. 
 In the process of subscription, submit documents to verify business and register a method of payment. 
 
 #### Authenticate Public Certificate 
 To use the service, a public certificate for e-tax invoice must be authenticated: get a public certificate from CROSSCERT: Korea Electronic Certification Authority. 
 
 #### Service Authority 
-Now that you have joined TOAST as business member, and registered a payment method and authenticated public certificate, you're ready to use the service. Following are the authorities to use service:  
+Now that you have joined NHN Cloud as business member, and registered a payment method and authenticated public certificate, you're ready to use the service. Following are the authorities to use service:  
 
-- As ADMIN: Manage TOAST Bill users, and issue e-tax invoices  
+- As ADMIN: Manage NHN Cloud Bill users, and issue e-tax invoices  
 - As MEMBER: Issue e-tax invoice  
 
 ### Main Features 

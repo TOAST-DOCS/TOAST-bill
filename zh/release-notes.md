@@ -1,8 +1,8 @@
 ## Bill > Bill (e-Tax) > Release Notes 
 
 ### July 24, 2018
-#### Conversion to TOAST Cloud  
-* Converted to a project service of TOAST Cloud  
+#### Conversion to TOAST 
+* Converted to a project service of TOAST
 
 #### Feature Updates
 * Issue consignment tax invoices 
