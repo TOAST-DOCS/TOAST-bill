@@ -1,6 +1,6 @@
-## Bill > Bill(e-Tax) > 개요
+## Bill > Dooray! eTax > 개요
 
-Bill(e-Tax)은 NHN Cloud가 제공하는 전자 세금계산서 서비스입니다.
+Dooray! eTax는 NHN Cloud가 제공하는 전자 세금계산서 서비스입니다.
 e-business에 최적화된 사용자 환경과 합리적인 가격으로 최고 수준의 세무업무를 체험하실 수 있습니다.
 
 * 가입과 동시에 사용 가능하며 별도 설치가 필요없는 쉽고 빠른 전자 세금계산서 서비스입니다.
@@ -11,4 +11,4 @@ e-business에 최적화된 사용자 환경과 합리적인 가격으로 최고 
 <br/>
 
 ### 서비스 구성도
-![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview01.png)
+![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview.png)
