@@ -1,6 +1,6 @@
-## Bill > Bill(e-Tax) > 概要
+## Bill > Dooray! eTax > 概要
 
-Bill(e-Tax)は、電子税金計算書サービスです。
+Dooray! eTaxは、電子税金計算書サービスです。
 e-ビジネスに最適化されたユーザー環境と合理的な価格で、最高水準の税務業務サービスを体験できます。
 
 * 別途インストールが不要で、登録と同時に使用できる簡単かつ迅速な電子税金計算書サービスです。
@@ -11,4 +11,4 @@ e-ビジネスに最適化されたユーザー環境と合理的な価格で、
 <br/>
 
 ### サービス構成図
-![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview01_en.png)
+![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview_en.png)
