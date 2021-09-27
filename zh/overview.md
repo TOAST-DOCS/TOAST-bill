@@ -1,6 +1,6 @@
-## Bill > Dooray! eTax > Overview 
+## Bill > eTax > Overview 
 
-Dooray! eTax refers to an electronic tax invoice service. 
+eTax refers to an electronic tax invoice service. 
 Under optimized user environment for e-business, you can enjoy the highest-level of tax service at reasonable prices. 
 
 * Provides easy and fast service, which becomes available immediately after you join, with no further installation required. 
