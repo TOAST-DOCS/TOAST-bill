@@ -1,6 +1,6 @@
-## Bill > Bill(e-Tax) > Overview 
+## Bill > eTax > Overview 
 
-Bill (e-Tax) refers to an electronic tax invoice service. 
+eTax refers to an electronic tax invoice service. 
 Under optimized user environment for e-business, you can enjoy the highest-level of tax service at reasonable prices. 
 
 * Provides easy and fast service, which becomes available immediately after you join, with no further installation required. 
@@ -11,4 +11,4 @@ Under optimized user environment for e-business, you can enjoy the highest-level
 <br/>
 
 ### Service Configuration 
-![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview01_en.png)
+![](http://static.toastoven.net/prod_toastbill/Bill(e-Tax)_overview_en.png)
