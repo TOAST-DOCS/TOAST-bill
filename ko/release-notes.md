@@ -1,8 +1,8 @@
-## Bill > Dooray! eTax > 릴리스 노트
+## Bill > eTax > 릴리스 노트
 
 ### 2021.09.28
 #### 상품명 변경
-* Bill (e-Tax) -> Dooray! eTax 상품명 변경
+* Bill (e-Tax) -> eTax 상품명 변경
 
 ### 2018.07.24
 #### 토스트클라우드 상품 전환
