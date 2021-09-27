@@ -1,8 +1,8 @@
-## Bill > Dooray! eTax > Release Notes 
+## Bill > eTax > Release Notes 
 
 ### September 28, 2021
 #### Project service name Change
-* Bill (e-Tax) -> Dooray! eTax
+* Bill (e-Tax) -> eTax
 
 ### July 24, 2018
 #### Conversion to TOAST 
